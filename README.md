@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi, I'm Patryk 
 
-<!--
-**pprusz/pprusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 A passionate Frontend Developer
 
-Here are some ideas to get you started:
+🐿️ Currently learning Node.js, Jest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤓 Constantly working on improving my software engineering skills
+
+📫 If you have any feedback, please reach out to me at pruszkowski.patryk@o2.pl
+
+# Tools 🖥️
+
+So far, throughout my programming journey I've learnt following technologies...
+
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,nodejs,html,css,sass,git,)](https://skillicons.dev)
+
+...and I'm not planning on stopping here!
+
+
