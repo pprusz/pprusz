@@ -4,7 +4,7 @@
 
 🐿️ Currently learning Node.js, Jest
 
-🤓 Constantly working on improving my software engineering skills
+🤓 Constantly working on improving my programing skills
 
 📫 If you have any feedback, please reach out to me at pruszkowski.patryk@o2.pl
 
