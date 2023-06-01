@@ -12,7 +12,7 @@
 
 So far, throughout my programming journey I've learnt following technologies...
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,nodejs,html,css,sass,git,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,nodejs,html,css,sass,git,vscode,vite,supabase,)](https://skillicons.dev)
 
 ...and I'm not planning on stopping here!
 
